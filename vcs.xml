@@ -34,6 +34,10 @@
           <option name="url" value="https://out-kovrov-v@sbtatlas.sigma.sbrf.ru/stashdbo/scm/cuc/sbt-bdd-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sbtatlas.sigma.sbrf.ru/stashdbo/scm/dbo/correqts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="c:\home\sbbol\dev\" />
