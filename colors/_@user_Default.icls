@@ -4,10 +4,10 @@
     <property name="created">2017-04-26T15:33:19</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-09-28T09:08:24</property>
+    <property name="modified">2017-10-20T14:19:56</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
