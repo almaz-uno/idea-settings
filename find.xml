@@ -3,15 +3,13 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*.j</mask>
       <mask>*юч</mask>
       <mask>*ю</mask>
       <mask>*.x</mask>
@@ -32,9 +30,11 @@
       <mask>(</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.s</mask>
       <mask>*.sql</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
