@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="dict" type="XML" />
+      <mapping ext="check" type="XML" />
+      <mapping ext="edit" type="XML" />
+    </extensionMap>
+  </component>
+</application>
