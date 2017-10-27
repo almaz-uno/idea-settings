@@ -3,11 +3,8 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.gradle</mask>
-      <mask>*юч</mask>
-      <mask>*ю</mask>
-      <mask>*.xs</mask>
       <mask>*.xsd</mask>
       <mask>*.ву</mask>
       <mask>*.в</mask>
@@ -33,6 +30,10 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
+      <mask>we.xml</mask>
+      <mask>web.xml</mask>
+      <mask>b.xml</mask>
+      <mask>.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
