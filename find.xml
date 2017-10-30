@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.xsd</mask>
       <mask>*.ву</mask>
@@ -19,7 +20,6 @@
       <mask>*.s</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.d</mask>
@@ -34,6 +34,7 @@
       <mask>b.xml</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
