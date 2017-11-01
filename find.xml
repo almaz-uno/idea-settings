@@ -3,11 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.wsdl" />
     <recentFileMasks>
-      <mask>*.feat</mask>
-      <mask>*.featu</mask>
-      <mask>*.featur</mask>
-      <mask>*.feature</mask>
       <mask>(*</mask>
       <mask>(</mask>
       <mask>*.j</mask>
@@ -16,7 +13,6 @@
       <mask>*.de</mask>
       <mask>*.des</mask>
       <mask>*.desc</mask>
-      <mask>*.x</mask>
       <mask>we.xml</mask>
       <mask>web.xml</mask>
       <mask>b.xml</mask>
@@ -29,11 +25,16 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.w</mask>
+      <mask>*.ws</mask>
+      <mask>*.wsd</mask>
+      <mask>*.wsdl</mask>
     </recentFileMasks>
   </component>
 </application>
