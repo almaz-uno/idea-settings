@@ -50,4 +50,7 @@
     </option>
     <option name="cloneParentDir" value="c:\home\sbbol\dev\" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/home/sbbol/dev/_diff" />
+  </component>
 </application>
