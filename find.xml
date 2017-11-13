@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.ja</mask>
       <mask>*.d</mask>
@@ -15,7 +15,6 @@
       <mask>b.xml</mask>
       <mask>.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.w</mask>
       <mask>*.ws</mask>
@@ -35,6 +34,7 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
