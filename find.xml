@@ -3,10 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.dict" />
     <recentFileMasks>
-      <mask>web.xml</mask>
-      <mask>b.xml</mask>
-      <mask>.xml</mask>
       <mask>*.xml</mask>
       <mask>*.w</mask>
       <mask>*.ws</mask>
@@ -24,8 +22,6 @@
       <mask>*.gradl</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.e</mask>
       <mask>*.ed</mask>
       <mask>*.edi</mask>
@@ -34,6 +30,11 @@
       <mask>*.xd</mask>
       <mask>*.x</mask>
       <mask>*.xsd</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.di</mask>
+      <mask>*.dic</mask>
+      <mask>*.dict</mask>
     </recentFileMasks>
   </component>
 </application>
