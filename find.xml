@@ -6,15 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.w</mask>
-      <mask>*.ws</mask>
-      <mask>*.wsd</mask>
-      <mask>*.wsdl</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.grald</mask>
-      <mask>*.gralde</mask>
-      <mask>*.gral</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
@@ -36,6 +27,15 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>.edit</mask>
+      <mask>.edi</mask>
+      <mask>.ed</mask>
+      <mask>.e</mask>
+      <mask>.</mask>
+      <mask>.d</mask>
+      <mask>.di</mask>
+      <mask>.dic</mask>
+      <mask>.dict</mask>
     </recentFileMasks>
   </component>
 </application>
