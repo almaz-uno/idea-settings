@@ -4,12 +4,6 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.xd</mask>
-      <mask>*.x</mask>
-      <mask>*.xsd</mask>
-      <mask>.edit</mask>
-      <mask>.edi</mask>
-      <mask>.ed</mask>
       <mask>.e</mask>
       <mask>.</mask>
       <mask>.d</mask>
@@ -34,6 +28,12 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
