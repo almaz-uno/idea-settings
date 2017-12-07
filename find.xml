@@ -5,8 +5,6 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>.e</mask>
-      <mask>.</mask>
       <mask>.d</mask>
       <mask>.di</mask>
       <mask>.dic</mask>
@@ -16,8 +14,6 @@
       <mask>*.dic</mask>
       <mask>*.dict</mask>
       <mask>*.d</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
@@ -32,8 +28,12 @@
       <mask>*.ed</mask>
       <mask>*.edi</mask>
       <mask>*.edit</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
+      <mask>*.x</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
