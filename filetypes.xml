@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="fill" type="PLAIN_TEXT" />
       <mapping ext="quickview" type="XML" />
       <mapping ext="table" type="XML" />
       <mapping ext="order" type="XML" />
