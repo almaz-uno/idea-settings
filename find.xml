@@ -3,20 +3,14 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.edit" />
+    <option name="FILE_MASK" value="*.dict" />
     <recentFileMasks>
-      <mask>.e</mask>
       <mask>.</mask>
       <mask>.d</mask>
       <mask>.di</mask>
       <mask>.dic</mask>
       <mask>.dict</mask>
-      <mask>*.xml</mask>
-      <mask>*.di</mask>
       <mask>*.dicr</mask>
-      <mask>*.dic</mask>
-      <mask>*.dict</mask>
-      <mask>*.d</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
@@ -31,10 +25,16 @@
       <mask>*.gradle</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
       <mask>*.e</mask>
       <mask>*.ed</mask>
       <mask>*.edi</mask>
       <mask>*.edit</mask>
+      <mask>*.d</mask>
+      <mask>*.di</mask>
+      <mask>*.dic</mask>
+      <mask>*.dict</mask>
     </recentFileMasks>
   </component>
 </application>
