@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>.</mask>
       <mask>.d</mask>
@@ -12,7 +13,6 @@
       <mask>*.dicr</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
@@ -34,6 +34,7 @@
       <mask>*.di</mask>
       <mask>*.dic</mask>
       <mask>*.dict</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
