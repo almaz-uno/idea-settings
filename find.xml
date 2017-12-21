@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>.d</mask>
       <mask>.di</mask>
@@ -18,7 +17,6 @@
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.x</mask>
@@ -36,6 +34,7 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
