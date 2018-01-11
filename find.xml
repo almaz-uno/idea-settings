@@ -21,19 +21,19 @@
       <mask>*.dic</mask>
       <mask>*.dict</mask>
       <mask>*</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.gradl</mask>
+      <mask>*.grad</mask>
+      <mask>*.gra</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
