@@ -1,8 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="fill" type="PLAIN_TEXT" />
+      <mapping ext="quickview" type="XML" />
+      <mapping ext="table" type="XML" />
+      <mapping ext="order" type="XML" />
+      <mapping ext="dcs" type="XML" />
       <mapping ext="dict" type="XML" />
+      <mapping ext="filter" type="XML" />
       <mapping ext="check" type="XML" />
+      <mapping ext="desc" type="XML" />
       <mapping ext="edit" type="XML" />
     </extensionMap>
   </component>
