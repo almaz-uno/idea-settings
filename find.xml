@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.gradle</mask>
-      <mask>*.gradl</mask>
-      <mask>*.grad</mask>
-      <mask>*.gra</mask>
       <mask>*.g</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
@@ -18,16 +14,11 @@
       <mask>у</mask>
       <mask>*j</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.d</mask>
       <mask>*.di</mask>
       <mask>*.dic</mask>
       <mask>*.dict</mask>
       <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -37,6 +28,15 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.xsd</mask>
+      <mask>*.xs</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
