@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>.dic</mask>
       <mask>.dict</mask>
@@ -25,10 +26,7 @@
       <mask>*.sql</mask>
       <mask>у</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*j</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
@@ -36,6 +34,9 @@
       <mask>*.di</mask>
       <mask>*.dic</mask>
       <mask>*.dict</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
