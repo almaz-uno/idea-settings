@@ -28,14 +28,14 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
