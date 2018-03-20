@@ -5,18 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*Proces*" />
     <recentFileMasks>
-      <mask>*.di</mask>
-      <mask>*.dic</mask>
-      <mask>*.dict</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
@@ -37,6 +27,16 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*Зкщ</mask>
+      <mask>*Зк</mask>
+      <mask>*З</mask>
+      <mask>*</mask>
+      <mask>*P</mask>
+      <mask>*Pro</mask>
+      <mask>*Proc</mask>
+      <mask>*Proce</mask>
+      <mask>*Proces</mask>
+      <mask>*Proces*</mask>
     </recentFileMasks>
   </component>
 </application>
