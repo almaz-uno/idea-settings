@@ -26,7 +26,6 @@
       <mask>*ый</mask>
       <mask>*ы</mask>
       <mask>*.s</mask>
-      <mask>*.sql</mask>
       <mask>**.java</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -34,6 +33,7 @@
       <mask>*.di</mask>
       <mask>*.dic</mask>
       <mask>*.dict</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
