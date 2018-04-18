@@ -6,14 +6,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.jav</mask>
-      <mask>*.x</mask>
-      <mask>*&amp;*.java</mask>
-      <mask>*U*.java</mask>
-      <mask>*Us*.java</mask>
       <mask>*User*.java</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.sq</mask>
       <mask>*Зкщ</mask>
       <mask>*Зк</mask>
@@ -27,15 +21,21 @@
       <mask>*ыйд</mask>
       <mask>*ый</mask>
       <mask>*ы</mask>
-      <mask>*.s</mask>
       <mask>**.java</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.d</mask>
       <mask>*.di</mask>
       <mask>*.dic</mask>
       <mask>*.dict</mask>
       <mask>*.sql</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
