@@ -5,10 +5,9 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*User*.java</mask>
       <mask>*.xml</mask>
-      <mask>*.sq</mask>
       <mask>*Зкщ</mask>
       <mask>*Зк</mask>
       <mask>*З</mask>
@@ -22,20 +21,22 @@
       <mask>*ый</mask>
       <mask>*ы</mask>
       <mask>**.java</mask>
-      <mask>*</mask>
       <mask>*.d</mask>
       <mask>*.di</mask>
       <mask>*.dic</mask>
       <mask>*.dict</mask>
-      <mask>*.sql</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xs</mask>
       <mask>*.xsd</mask>
+      <mask>*s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
