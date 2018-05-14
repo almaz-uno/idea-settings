@@ -1,7 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>*Proce</mask>
+      <mask>*Proces</mask>
+      <mask>*Proces*</mask>
+      <mask>*ыйд</mask>
+      <mask>*ый</mask>
+      <mask>*ы</mask>
+      <mask>*.d</mask>
+      <mask>*.di</mask>
+      <mask>*.dic</mask>
+      <mask>*.dict</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
+      <mask>*s</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>**.java</mask>
+      <mask>*</mask>
+      <mask>*.gradle</mask>
+      <mask>*.gradl</mask>
+      <mask>*.grad</mask>
+      <mask>*.gra</mask>
+      <mask>*.gr</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
   </component>
 </application>
