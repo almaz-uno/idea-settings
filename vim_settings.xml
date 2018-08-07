@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" timestamp="1533641132535">
-        <mark key="'" line="20" column="57" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" timestamp="1533645723352">
+        <mark key="'" line="18" column="62" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="18" column="45" />
       </file>
     </filemarks>
     <jumps>
       <jump line="20" column="57" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
+      <jump line="18" column="62" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
+      <jump line="16" column="46" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -28,13 +30,31 @@
     </search>
     <history>
       <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
