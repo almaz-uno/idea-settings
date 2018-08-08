@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/ops/test.sh" timestamp="1533657052491">
         <mark key="[" line="30" column="28" />
       </file>
+      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/.gitignore" timestamp="1533714021148">
+        <mark key="'" line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" timestamp="1533648394385">
         <mark key="'" line="18" column="62" />
         <mark key="[" line="11" column="0" />
@@ -18,6 +21,7 @@
       <jump line="20" column="57" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
       <jump line="18" column="62" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
       <jump line="16" column="46" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
+      <jump line="19" column="7" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/.gitignore" />
     </jumps>
     <registers>
       <register name="1" type="2">
