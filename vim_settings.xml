@@ -1,10 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/ops/test.sh" timestamp="1533657052491">
-        <mark key="[" line="30" column="28" />
+      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/ops/test.sh" timestamp="1533657052491" />
+      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/ops/pgk-bonus-stand/build-stand/Jenkinsfile" timestamp="1533715703979">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/.gitignore" timestamp="1533714021148">
         <mark key="'" line="19" column="7" />
@@ -25,16 +29,22 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUoJ29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ajpsb2c0ai1jb3JlOjIuMTEuMCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIHQK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUoJ29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ajpsb2c0ai1jb3JlOjIuMTEuMCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuIHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnBnay1ib251cy1leG9udW0tZW50aXR5JykK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUoJ29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ajpsb2c0ai1jb3JlOjIuMTEuMCcsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnBnay1ib251cy1leG9udW0tZW50aXR5JykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CnNvdXJjZWNvbXBhdGliaWxpdHkgPSAxLjgK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -43,7 +53,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -56,6 +68,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
