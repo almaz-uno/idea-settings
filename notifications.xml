@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android Module Importing" shouldLog="false" />
+    <notification groupId="Android Notification Group" shouldLog="false" />
+  </component>
+</application>
