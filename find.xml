@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'deposit-stubs'" />
-    <option name="defaultScopeName" value="Project 'deposit-stubs'" />
+    <option name="customScope" value="Project 'deposit'" />
+    <option name="defaultScopeName" value="Project 'deposit'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'deposit-stubs'" />
+    <option name="SEARCH_SCOPE" value="Project 'deposit'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
