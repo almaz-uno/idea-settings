@@ -37,7 +37,7 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="shift ctrl pause" />
+    <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
   <action id="com.dubreuia.core.action.SaveActionsGroup">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
