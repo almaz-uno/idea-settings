@@ -1,7 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="fill" type="XML" />
+      <mapping ext="desc" type="XML" />
       <mapping ext="check" type="XML" />
+      <mapping ext="edit" type="XML" />
+      <mapping ext="filter" type="XML" />
+      <mapping ext="dcs" type="XML" />
     </extensionMap>
   </component>
 </application>
