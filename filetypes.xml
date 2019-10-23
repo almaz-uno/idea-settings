@@ -6,6 +6,7 @@
       <mapping ext="check" type="XML" />
       <mapping ext="edit" type="XML" />
       <mapping ext="filter" type="XML" />
+      <mapping ext="dict" type="XML" />
       <mapping ext="dcs" type="XML" />
     </extensionMap>
   </component>
