@@ -19,5 +19,6 @@
     <mask>*.sql</mask>
     <mask>*.edit</mask>
     <mask>*.java</mask>
+    <mask>*.dict</mask>
   </component>
 </application>
