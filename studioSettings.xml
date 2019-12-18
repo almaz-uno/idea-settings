@@ -3,6 +3,7 @@
     <option name="generalSettings">
       <GeneralSettings>
         <option name="enableInternalFeatures" value="false" />
+        <option name="macAddress" value="0E-3E-9F-75-46-E0" />
       </GeneralSettings>
     </option>
     <option name="sdkSettings">
