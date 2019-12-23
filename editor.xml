@@ -12,7 +12,6 @@
         <entry key="JAVA" value="true" />
       </map>
     </option>
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
