@@ -2,9 +2,16 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Console.Execute.Multiline" />
   <action id="ContextHelp">
     <keyboard-shortcut first-keystroke="shift ctrl f1" />
   </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorSplitLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
@@ -26,6 +33,8 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -39,6 +48,7 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl pause" />
   </action>
+  <action id="ViewSource" />
   <action id="com.dubreuia.core.action.SaveActionsGroup">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
