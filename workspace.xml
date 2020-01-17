@@ -1,0 +1,11 @@
+<application>
+  <component name="InlayHintsSettings">
+    <settingsMapElement>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+    </settingsMapElement>
+  </component>
+</application>
