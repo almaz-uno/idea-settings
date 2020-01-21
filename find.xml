@@ -12,7 +12,6 @@
     <mask>*.mxml</mask>
     <mask>*.check</mask>
     <mask>!*.java</mask>
-    <mask>*.feature</mask>
     <mask>*.edit</mask>
     <mask>*.dict</mask>
     <mask>*.xml</mask>
@@ -24,6 +23,8 @@
     <mask>*.hbm.xml</mask>
     <mask>LetterOfReg*</mask>
     <mask>*.gradle</mask>
+    <mask>*.jsx</mask>
     <mask>*.desc</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
