@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +12,6 @@
     <mask>*.mxml</mask>
     <mask>*.check</mask>
     <mask>!*.java</mask>
-    <mask>*.feature</mask>
     <mask>*.edit</mask>
     <mask>*.dict</mask>
     <mask>*.xml</mask>
@@ -23,8 +21,10 @@
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
     <mask>*.hbm.xml</mask>
-    <mask>*.desc</mask>
     <mask>LetterOfReg*</mask>
+    <mask>*.jsx</mask>
+    <mask>*.desc</mask>
+    <mask>*.feature</mask>
     <mask>*.gradle</mask>
   </component>
 </application>
