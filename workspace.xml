@@ -1,5 +1,10 @@
 <application>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.chain.hints" />
+      </set>
+    </option>
     <settingsMapElement>
       <JAVA.annotation.hints>
         <Settings>
