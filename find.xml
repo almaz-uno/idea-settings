@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
     <mask>*.dict</mask>
     <mask>*.xml</mask>
     <mask>*.lc</mask>
-    <mask>*.java</mask>
     <mask>Letter*.java</mask>
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
@@ -26,5 +26,6 @@
     <mask>*.desc</mask>
     <mask>*.feature</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
