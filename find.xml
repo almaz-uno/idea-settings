@@ -16,7 +16,6 @@
     <mask>!*.java</mask>
     <mask>*.edit</mask>
     <mask>*.dict</mask>
-    <mask>*.xml</mask>
     <mask>*.lc</mask>
     <mask>Letter*.java</mask>
     <mask>*.xsd</mask>
@@ -29,5 +28,6 @@
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*IntegrationTest.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
