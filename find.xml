@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +15,6 @@
     <mask>!*.java</mask>
     <mask>*.edit</mask>
     <mask>*.dict</mask>
-    <mask>*.xml</mask>
     <mask>*.lc</mask>
     <mask>Letter*.java</mask>
     <mask>*.xsd</mask>
@@ -28,5 +27,6 @@
     <mask>*.gradle</mask>
     <mask>*IntegrationTest.java</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
