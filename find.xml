@@ -29,7 +29,7 @@
     <mask>*IntegrationTest.java</mask>
     <mask>*.yml</mask>
     <mask>application.y*ml</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
