@@ -2,6 +2,20 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>комисси</entry>
+        <entry>webLetterOfRegService</entry>
+        <entry>cammi</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -53,6 +67,140 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" timestamp="1573562432830">
+        <mark key="'" line="352" column="8" />
+        <mark key="[" line="130" column="58" />
+        <mark key="]" line="130" column="78" />
+      </file>
+      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/ops/pgk-bonus-stand/build-stand/Jenkinsfile" timestamp="1533715703979">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="15" />
+      </file>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/dcb/dcb-adapter-impl/src/main/java/ru/sbrf/sbbol/dcb/document/payroll/adapter/LetterOfRegAdapterImpl.java" timestamp="1573562966387">
+        <mark key="[" line="481" column="71" />
+        <mark key="]" line="481" column="81" />
+      </file>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/correqts/core/Server/src/main/java/com/bssys/server/print/SharedPrintServiceImpl.java" timestamp="1575291634306">
+        <mark key="'" line="35" column="49" />
+      </file>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/correqts/core/Server/src/main/resources/com/bssys/server/print/sharedPrintServices.xml" timestamp="1575291801400">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="74" />
+      </file>
+      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/.gitignore" timestamp="1533714021148">
+        <mark key="'" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" timestamp="1533648394385">
+        <mark key="'" line="18" column="62" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="18" column="45" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/correqts/core/bss-common/target/desc/java/ru/sbrf/sbbol/generated/desc/letterofreg/LetterOfReg.java" timestamp="1573557698393">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="466" column="81" />
+        <mark key="]" line="466" column="102" />
+      </file>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/rko/rko-api/src/main/java/ru/sbrf/sbbol/dcb/document/payroll/model/web/WebLetterOfReg.java" timestamp="1573557310864">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+      </file>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-service/src/main/java/ru/sbrf/sbbol/dcb/document/payroll/service/web/WebLetterOfRegServiceImpl.java" timestamp="1573562312943">
+        <mark key="'" line="463" column="57" />
+        <mark key="[" line="463" column="45" />
+        <mark key="]" line="463" column="74" />
+      </file>
+      <file name="$USER_HOME$/wsp/sberbank/sbbol/correqts/core/Server/src/main/java/com/bssys/bird/services/salaryproject/commission/SalaryCommissionServiceImpl.java" timestamp="1573563928986">
+        <mark key="[" line="25" column="72" />
+        <mark key="]" line="25" column="99" />
+      </file>
+      <file name="/fragment.java" timestamp="1573563224144">
+        <mark key="[" line="0" column="17" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="57" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
+      <jump line="18" column="62" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
+      <jump line="16" column="46" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/dev/back/pgk-bonus-dao/build.gradle" />
+      <jump line="19" column="7" filename="$USER_HOME$/gitlab.dfu.i-teco.ru/pgk-bonus/.gitignore" />
+      <jump line="60" column="6" filename="$USER_HOME$/wsp/sberbank/sbbol/correqts/core/bss-common/target/desc/java/ru/sbrf/sbbol/generated/desc/letterofreg/LetterOfReg.java" />
+      <jump line="297" column="56" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-service/src/main/java/ru/sbrf/sbbol/dcb/document/payroll/dao/LetterOfRegDao.java" />
+      <jump line="463" column="57" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-service/src/main/java/ru/sbrf/sbbol/dcb/document/payroll/service/web/WebLetterOfRegServiceImpl.java" />
+      <jump line="145" column="55" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="165" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="172" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="181" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="185" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="188" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="196" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="204" column="19" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="206" column="19" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="217" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="226" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="263" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="270" column="8" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="276" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="283" column="8" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="294" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="301" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="334" column="29" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="343" column="29" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="352" column="8" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="360" column="15" filename="$USER_HOME$/wsp/sberbank/sbbol/dcb/products/payroll/payroll-rest/src/main/java/ru/sbrf/sbbol/restweb/document/payroll/controller/LetterOfRegController.java" />
+      <jump line="35" column="49" filename="$USER_HOME$/wsp/sberbank/sbbol/correqts/core/Server/src/main/java/com/bssys/server/print/SharedPrintServiceImpl.java" />
+      <jump line="5" column="12" filename="$USER_HOME$/wsp/sberbank/sbbol/correqts/core/Server/src/main/java/com/bssys/server/print/PrintObjectType.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="4">
+        <text>dictionariesJasperPrintFactory</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuIHQK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>dictionariesJasperPrintFactory</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUoJ29yZy5hcGFjaGUubG9nZ2luZy5sb2c0ajpsb2c0ai1jb3JlOjIuMTEuMCcsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOnBnay1ib251cy1leG9udW0tZW50aXR5JykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CnNvdXJjZWNvbXBhdGliaWxpdHkgPSAxLjgK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="+" type="4">
+        <text>dictionariesJasperPrintFactory</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgV2ViQW1vdW50IGM=</text>
+      </register>
+      <register name="/" type="4">
+        <text>cammi</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>cammi</last-search>
+      <last-offset />
+      <last-pattern>cammi</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="false" />
