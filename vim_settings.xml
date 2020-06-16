@@ -1,6 +1,8 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
@@ -51,7 +53,9 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
