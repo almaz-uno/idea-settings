@@ -1,16 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="fill" type="XML" />
-      <mapping ext="table" type="XML" />
-      <mapping ext="desc" type="XML" />
-      <mapping ext="order" type="XML" />
       <mapping ext="check" type="XML" />
-      <mapping ext="edit" type="XML" />
-      <mapping ext="filter" type="XML" />
       <mapping ext="lc" type="XML" />
-      <mapping ext="dict" type="XML" />
+      <mapping ext="order" type="XML" />
+      <mapping ext="filter" type="XML" />
       <mapping ext="dcs" type="XML" />
+      <mapping ext="desc" type="XML" />
+      <mapping ext="fill" type="XML" />
+      <mapping ext="edit" type="XML" />
+      <mapping ext="dict" type="XML" />
+      <mapping ext="table" type="XML" />
     </extensionMap>
   </component>
 </application>
