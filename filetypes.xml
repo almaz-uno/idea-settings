@@ -12,6 +12,7 @@
       <mapping ext="desc" type="XML" />
       <mapping ext="fill" type="XML" />
       <mapping ext="edit" type="XML" />
+      <mapping ext="plmxml" type="XML" />
       <mapping ext="dict" type="XML" />
       <mapping ext="table" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
