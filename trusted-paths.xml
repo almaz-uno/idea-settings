@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/wsp/gitlab.dfu.i-teco.ru/sibur/econs" />
+        <option value="$USER_HOME$/wsp/gitlab.dfu.i-teco.ru/sibur/sibur-econs" />
       </list>
     </option>
   </component>
