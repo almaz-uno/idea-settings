@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="https://sonar-security.dev002.local/" />
+          <option name="name" value="sibur" />
+          <option name="organization" value="sibur" />
+          <option name="user" value="" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
