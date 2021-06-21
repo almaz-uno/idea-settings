@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="idx" type="PLAIN_TEXT" />
       <mapping ext="check" type="XML" />
+      <mapping ext="pom" type="XML" />
       <mapping ext="lc" type="XML" />
       <mapping ext="order" type="XML" />
       <mapping ext="filter" type="XML" />
