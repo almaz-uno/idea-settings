@@ -27,6 +27,7 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="JAVA.chain.hints" />
+        <option value="kotlin.KotlinLambdasHintsProvider" />
       </set>
     </option>
     <settingsMapElement>
