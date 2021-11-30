@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +17,6 @@
     <mask>*.lc</mask>
     <mask>Letter*.java</mask>
     <mask>*.xsd</mask>
-    <mask>*.sql</mask>
     <mask>*.hbm.xml</mask>
     <mask>LetterOfReg*</mask>
     <mask>*.jsx</mask>
@@ -31,5 +30,6 @@
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
