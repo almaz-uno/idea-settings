@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +16,6 @@
     <mask>*.lc</mask>
     <mask>Letter*.java</mask>
     <mask>*.xsd</mask>
-    <mask>*.sql</mask>
     <mask>*.hbm.xml</mask>
     <mask>LetterOfReg*</mask>
     <mask>*.jsx</mask>
@@ -26,8 +25,10 @@
     <mask>*.yml</mask>
     <mask>application.y*ml</mask>
     <mask>*.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.sql</mask>
+    <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
