@@ -23,7 +23,8 @@
         <entry key="kotlin" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.asciidoc" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
   <component name="InlayHintsSettings">
@@ -46,5 +47,8 @@
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
   </component>
 </application>
